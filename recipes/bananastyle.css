@@ -1,0 +1,32 @@
+body{
+    background-color: #FAF7DD;
+}
+
+h1{
+    text-align: center;
+    color:#B56830;
+}
+
+img {
+    width: 600px;
+    height:auto;
+    display: block;
+    margin: 0 auto;
+}
+
+.recipe{
+    margin: 50px 300px;
+    text-align: justify;
+}
+
+h2{
+    color: #CD814C;
+}
+
+p {
+line-height: 20px;
+}
+
+li {
+    line-height: 20px;
+}
