@@ -1,0 +1,27 @@
+body{
+    background-color: #FAF7DD;
+}
+
+h1{
+    text-align: center;
+    font-size: 40px;
+    color:#B56830;
+}
+
+ul{
+    padding: 0;
+}
+
+li{
+  list-style: none;
+  color: black;
+  text-align: center;
+  line-height: 40px;
+
+}
+
+a {
+    text-decoration: none;
+    font-size: 20px;
+    color: black;
+}
