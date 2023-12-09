@@ -30,3 +30,14 @@ line-height: 20px;
 li {
     line-height: 20px;
 }
+
+.ingredients{
+    border: 1px dotted;
+    border-color: #B56830;
+    padding: 8px 0px 8px 30px ;
+    
+}
+
+.ingredients h3{
+    color: #B56830;
+}
