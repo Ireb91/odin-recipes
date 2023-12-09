@@ -1,5 +1,8 @@
 body{
     background-color: #FAF7DD;
+    max-width: 700px;
+    display: block;
+    margin:0 auto;
 }
 
 h1{
@@ -14,14 +17,21 @@ ul{
 
 li{
   list-style: none;
-  color: black;
+  max-width:400px;
   text-align: center;
   line-height: 40px;
-
+  margin: 0px auto 20px;
+  padding: 15px;
+  border:1px solid;
+  border-color: #B56830;
 }
 
 a {
     text-decoration: none;
     font-size: 20px;
-    color: black;
+    color: #B56830;
+}
+
+a:hover{
+    font-weight:700 ;
 }
